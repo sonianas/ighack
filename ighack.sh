@@ -7,7 +7,7 @@
 check(){
 if wget --spider https://raw.githubusercontent.com/noob-hackers/ighack/master/update.v1.3 2>/dev/null; then
 cd $HOME/ighack/core
-echo "ig" > update.txt
+echo "anfalmaameria" > update.txt
 else
 echo
 fi
